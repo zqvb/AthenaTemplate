@@ -19,7 +19,7 @@ Contributions and feedback are welcome to keep the map evolving.
 Ensure you have Fortnite installed and Unreal Editor for Fortnite
 
 
-# Required to clone this repository (or download the ZIP directly).
+# Clone this repository or download the ZIP directly
 Clone the Repository:
 git clone https://github.com/your-username/fortnite-og-map-remake.git
 Alternatively, download the ZIP file from the GitHub page and extract it.
