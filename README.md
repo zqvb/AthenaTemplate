@@ -1,5 +1,6 @@
 # Fortnite Chapter 1 OG Map (Athena_Terrain)
 The Full OG Map Recreated in UEFN!
+<img width="1920" height="1080" alt="OGMap" src="https://github.com/user-attachments/assets/f6e97b5c-9309-4e7a-ba47-f605fbc14738" />
 # About the Project
 This repository contains the full UEFN project files for Fortnite’s Chapter 1 map
 # Why This Project?
