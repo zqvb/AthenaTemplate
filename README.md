@@ -1,4 +1,4 @@
-# MAP IS CURRENTLY UNFINISHED
+# MAP IS CURRENTLY UNFINISHED AND INVALID
 - Junk Junction (TBD)
 - Snobby Shores (TBD)
 - Haunted Hills (TBD)
@@ -24,7 +24,7 @@
 # Upcoming Features
 - Accurate Paths
 - Ported POIs
-- Fixed Validation Issues
+- Validation Fixes
 - Accurate Landscape Material
 
 <img width="800" height="800" alt="MiniMapAthena" src="https://github.com/user-attachments/assets/6e94eceb-1145-47e4-a161-597dd2cc61df" />
