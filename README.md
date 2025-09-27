@@ -28,6 +28,7 @@ Project files are open for modification, so you can add your own twists or game 
 
 # Community-Driven
 Contributions and feedback are welcome to keep the map updating.
+
 [Join the Discord!](https://discord.gg/bZzJWQbMDs)
 
 <img width="600" height="600" alt="athenagtae" src="https://github.com/user-attachments/assets/effb00d4-3fe0-444e-897a-b4ad865c7127" />
