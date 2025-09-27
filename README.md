@@ -8,7 +8,7 @@ This repository contains the full UEFN project files for Fortnite’s Chapter 1 
 # Why This Project?
 The Fortnite community deserves access to the OG map without restrictive paywalls. Tired of seeing people sell POIs and Full Maps for a ridiculous amount of money. It genuinely makes me sick knowing an OG map recreation was sold to a UEFN Team for $5000 in Early 2024, that is INSANE and Epic themselves said they aren't gonna pay out anyone that recreates the OG Map. This project will be completely free for the community to enjoy and WILL not be paid.
 
-# COMPLETED VERSIONS
+# COMPLETED
 None yet.
 
 # BEING WORKED ON
