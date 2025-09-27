@@ -18,6 +18,7 @@
 - Wailing Woods (TBD)
 - Lonely Lodge (TBD)
 - Moisty Mire + Race Track (TBD)
+- Prison (TBD)
 - Soccer Stadium (TBD)
 
 # Upcoming Features
