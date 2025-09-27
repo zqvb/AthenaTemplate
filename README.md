@@ -11,7 +11,7 @@ The Fortnite community deserves access to the OG map without restrictive paywall
 # COMPLETED VERSIONS
 None yet.
 
-# VERSIONS BEING WORKED ON
+# BEING WORKED ON
 [Athena_Terrain v3.0](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-3.0)
 
 # TO BE WORKED ON
