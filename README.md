@@ -27,7 +27,7 @@ None yet.
 Project files are open for modification, so you can add your own twists or game modes.
 
 # Community-Driven
-Contributions and feedback are welcome to keep the map evolving.
+Contributions and feedback are welcome to keep the map updating.
 [Join the Discord!](https://discord.gg/bZzJWQbMDs)
 
 ![ezgif-58d9615ca120c3](https://github.com/user-attachments/assets/a4d4250f-6384-45d8-92d6-9055b065e06d)
