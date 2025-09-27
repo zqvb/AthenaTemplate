@@ -1,7 +1,7 @@
 # Fortnite Chapter 1 Map in UEFN! (Athena_Terrain)
 TBD (To Be Done)
 
-<img width="1920" height="1080" alt="athenatemplate" src="https://github.com/user-attachments/assets/b0673962-d123-4dc3-be3a-eb2c27eb1aae" />
+<img width="800" height="600" alt="athenatemplate" src="https://github.com/user-attachments/assets/b0673962-d123-4dc3-be3a-eb2c27eb1aae" />
 
 # About the Project
 This repository contains the full UEFN project files for Fortnite’s Chapter 1 map
@@ -20,5 +20,4 @@ Contributions and feedback are welcome to keep the map evolving.
 # DISCORD
 [https://discord.gg/bZzJWQbMDs](https://discord.gg/bZzJWQbMDs)
 
-https://github.com/user-attachments/assets/0e975508-a792-4cc3-b56e-61c8a7e00bac
-
+![ezgif-58d9615ca120c3](https://github.com/user-attachments/assets/a4d4250f-6384-45d8-92d6-9055b065e06d)
