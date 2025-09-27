@@ -23,8 +23,6 @@ Project files are open for modification, so you can add your own twists or game 
 
 # Community-Driven
 Contributions and feedback are welcome to keep the map evolving.
-
-# DISCORD
-[https://discord.gg/bZzJWQbMDs](https://discord.gg/bZzJWQbMDs)
+[Join the Discord!](https://discord.gg/bZzJWQbMDs)
 
 ![ezgif-58d9615ca120c3](https://github.com/user-attachments/assets/a4d4250f-6384-45d8-92d6-9055b065e06d)
