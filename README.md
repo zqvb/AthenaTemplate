@@ -16,7 +16,7 @@ The Fortnite community deserves access to the OG map without restrictive paywall
 
 [Athena_Terrain v3.0](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-3.0)
 
-[Athena_Terrain v4.2](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-4.20)
+[Athena_Terrain v4.2](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-4.2)
 
 # Customizable
 Project files are open for modification, so you can add your own twists or game modes.
