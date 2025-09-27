@@ -15,7 +15,7 @@ None yet.
 [Athena_Terrain v3.0](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-3.0)
 (Currently Unfinished)
 
-# VERSIONS TO BE WORKED ON
+# TO BE WORKED ON
 [Athena_Terrain v1.8](https://github.com/zqvb/AthenaTemplate/tree/Fortnite-1.8)
 (Hasn't been worked on yet)
 
