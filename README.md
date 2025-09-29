@@ -31,4 +31,4 @@ Contributions and feedback are welcome to keep the map updating.
 
 [Join the Discord!](https://discord.gg/bZzJWQbMDs)
 
-<img width="600" height="600" alt="athenagtae" src="https://github.com/user-attachments/assets/effb00d4-3fe0-444e-897a-b4ad865c7127" />
+<img width="1920" height="1080" alt="athneatgeaw" src="https://github.com/user-attachments/assets/f1baf23e-22ef-460c-9290-b41c6bf3dc06" />
