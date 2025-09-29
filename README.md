@@ -13,7 +13,7 @@
   (No Progress Yet)
 - **Greasy Grove**
 
-  (Not Done)
+  (Not Finished)
 - **Tilted Towers**
 
   (No Progress Yet)
@@ -47,7 +47,8 @@
 - **Tomato Town**
 
   (Not Done)
-- Wailing Woods (TBD)
+- Wailing Woods
+  (Not Finished)
 - **Lonely Lodge**
 
   (No Progress Yet)
