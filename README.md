@@ -2,9 +2,9 @@
 
 [Roadmap](https://github.com/zqvb/AthenaTemplate/blob/Fortnite-3.0/POI.md)
 
-# Upcoming Features
+# TO DO
 - Accurate Paths
-- Ported POIs
+- All Ported POIs
 - Validation Fixes
 - Accurate Landscape Material
 - Foliage
