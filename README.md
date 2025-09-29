@@ -1,6 +1,6 @@
 # MAP IS CURRENTLY UNFINISHED AND INVALID
 - **Junk Junction**
-- 
+-  
   (No Progress Yet)
 - **Snobby Shores**
 
