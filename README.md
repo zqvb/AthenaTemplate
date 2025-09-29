@@ -1,4 +1,4 @@
-# MAP IS CURRENTLY UNFINISHED AND INVALID
+# Fortnite Version 3.0 - Uncompleted
 
 [Roadmap](https://github.com/zqvb/AthenaTemplate/blob/Fortnite-3.0/POI.md)
 
