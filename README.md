@@ -46,7 +46,7 @@
   (No Progress Yet)
 - **Tomato Town**
 
-  (Not Done)
+  (Not Finished)
 - Wailing Woods
   (Not Finished)
 - **Lonely Lodge**
