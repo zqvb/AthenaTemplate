@@ -17,7 +17,7 @@
 - **Tilted Towers**
 
   (No Progress Yet)
-- **Shify Shafts**
+- **Shifty Shafts**
 
   (No Progress Yet)
 - **Flush Factory**
