@@ -1,62 +1,62 @@
 # MAP IS CURRENTLY UNFINISHED AND INVALID
-- Junk Junction
+- **Junk Junction**
   (No Progress Yet)
-- Snobby Shores
+- **Snobby Shores**
 
    (No Progress Yet)
-- Haunted Hills
+- **Haunted Hills**
 
   (No Progress Yet)
-- Pleasant Park
+- **Pleasant Park**
 
   (No Progress Yet)
-- Greasy Grove
+- **Greasy Grove**
 
   (Not Done)
-- Tilted Towers
+- **Tilted Towers**
 
   (No Progress Yet)
-- Shify Shafts
+- **Shify Shafts**
 
   (No Progress Yet)
-- Flush Factory
+- **Flush Factory**
 
   (No Progress Yet)
-- Fatal Fields
+- **Fatal Fields**
 
   (No Progress Yet)
-- Salty Springs
+- **Salty Springs**
 
   (No Progress Yet)
-- Dusty Depot + Factories
+- **Dusty Depot + Factories**
 
   (No Progress Yet)
-- Retail Row
+- **Retail Row**
 
   (No Progress Yet)
-- Anarchy Acres
+- **Anarchy Acres**
 
   (TBD)
-- Loot Lake
+- **Loot Lake**
 
   (No Progress Yet)
-- Containers
+- **Containers**
 
   (No Progress Yet)
-- Tomato Town
+- **Tomato Town**
 
   (Not Done)
 - Wailing Woods (TBD)
-- Lonely Lodge
+- **Lonely Lodge**
 
   (No Progress Yet)
-- Moisty Mire + Race Track
+- **Moisty Mire + Race Track**
 
   (No Progress Yet)
 - Prison
 
   (No Progress Yet)
-- Soccer Stadium
+- **Soccer Stadium**
 
   (No Progress Yet)
 
