@@ -37,7 +37,7 @@
   (No Progress Yet)
 - **Anarchy Acres**
 
-  (TBD)
+  (No Progress Yet)
 - **Loot Lake**
 
   (No Progress Yet)
