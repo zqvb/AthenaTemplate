@@ -1,4 +1,4 @@
-# Fortnite Version 3.0 - Uncompleted
+# Fortnite v3.0 Map Template - Uncompleted
 **Upcoming Features**
 - Accurate Paths
 - All Ported POIs
