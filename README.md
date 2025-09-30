@@ -8,7 +8,7 @@
 - Battle Royale System
 
 # Note
-After the map is completed, there will be a published demo available for any wanting to check out the map before downloading the project
+After the map is completed, there will be a published demo available for anyone wanting to check out the map before downloading the project
 
 # Roadmap
 **View the Roadmap to see what's been completed**
