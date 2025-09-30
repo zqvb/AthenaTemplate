@@ -2,7 +2,7 @@
 
 [Roadmap](https://github.com/zqvb/AthenaTemplate/blob/Fortnite-3.0/POI.md)
 
-# TO DO
+# FUTURE UPDATES
 - Accurate Paths
 - All Ported POIs
 - Validation Fixes
