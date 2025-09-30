@@ -1,5 +1,5 @@
 # Fortnite Version 3.0 - Uncompleted
-# UPCOMING UPDATES
+**Upcoming Features**
 - Accurate Paths
 - All Ported POIs
 - Validation Fixes
