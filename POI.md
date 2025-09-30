@@ -43,4 +43,4 @@
 
 - **Soccer Stadium**
 # NOTE
-The Roadmap is updated frequently but please keep in mind that the project files may not be immedietly up to date
+The Roadmap is updated frequently but please keep in mind that the project files may not immedietly be up to date
