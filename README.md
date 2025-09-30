@@ -7,6 +7,9 @@
 - Foliage
 - Battle Royale System
 
+# Note
+After the map is completed, there will be a published demo available for any wanting to check out the map before downloading the project
+
 **View the Roadmap to see what's been completed**
 [Roadmap](https://github.com/zqvb/AthenaTemplate/blob/Fortnite-3.0/POI.md)
 
