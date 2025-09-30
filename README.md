@@ -10,6 +10,6 @@
 **View the Roadmap to see what's been completed**
 [Roadmap](https://github.com/zqvb/AthenaTemplate/blob/Fortnite-3.0/POI.md)
 
-<img width="800" height="800" alt="MiniMapAthena" src="https://github.com/user-attachments/assets/6e94eceb-1145-47e4-a161-597dd2cc61df" />
+<img width="600" height="600" alt="MiniMapAthena" src="https://github.com/user-attachments/assets/b1ae9335-2f7c-4449-b181-3e56dd44df1d" />
 
 ![ezgif-58d9615ca120c3](https://github.com/user-attachments/assets/a4d4250f-6384-45d8-92d6-9055b065e06d)
