@@ -1,3 +1,7 @@
+# PLEASE READ!
+The Roadmap is updated frequently but please keep in mind that the project files may not immedietly be up to date
+
+
 # Finished POIs
 - **Wailing Woods**
 
@@ -42,5 +46,3 @@
 - **Prison**
 
 - **Soccer Stadium**
-# NOTE
-The Roadmap is updated frequently but please keep in mind that the project files may not immedietly be up to date
