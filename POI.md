@@ -4,11 +4,11 @@ The Roadmap is updated frequently but please keep in mind that the project files
 
 # Finished POIs
 - **Wailing Woods**
-- - **Tomato Town**
+- **Tomato Town**
 
 # Not Finished
 - **Greasy Grove**
-- - **Containers**
+- **Containers**
   
 # Not Started
 - **Junk Junction**
