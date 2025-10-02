@@ -4,11 +4,11 @@ The Roadmap is updated frequently but please keep in mind that the project files
 
 # Finished POIs
 - **Wailing Woods**
+- - **Tomato Town**
 
 # Not Finished
 - **Greasy Grove**
-
-- **Tomato Town**
+- - **Containers**
   
 # Not Started
 - **Junk Junction**
@@ -36,8 +36,6 @@ The Roadmap is updated frequently but please keep in mind that the project files
 - **Anarchy Acres**
 
 - **Loot Lake**
-
-- **Containers**
 
 - **Lonely Lodge**
 
